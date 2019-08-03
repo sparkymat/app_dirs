@@ -4,4 +4,5 @@
 
 ## Links
 
+* [![CircleCI](https://circleci.com/gh/sparkymat/appdir.svg?style=svg)](https://circleci.com/gh/sparkymat/appdir)
 * [Documentation](https://godoc.org/github.com/sparkymat/appdir)
